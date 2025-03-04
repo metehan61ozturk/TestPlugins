@@ -1,0 +1,8 @@
+{
+  "name": "DENEME TMDB",
+  "description": "A description of your repository here",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://raw.githubusercontent.com/metehan61ozturk/TestPlugins/builds/plugins.json"
+  ]
+}
